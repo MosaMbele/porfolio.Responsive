@@ -1,0 +1,10 @@
+# Exported from Render on 2024-04-19T19:33:31Z
+services:
+- type: web
+  name: W6HW
+  runtime: static
+  repo: https://github.com/MosaMbele/portfolio.Responsive
+  buildCommand: yarn install
+  staticPublishPath: build
+  pullRequestPreviewsEnabled: true
+version: "1"
