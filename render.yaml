@@ -3,7 +3,7 @@ services:
 - type: web
   name: Mosa-Resposive
   runtime: static
-  repo: https://github.com/MosaMbele/Mosa-portfolio.Responsive
+  repo: https://github.com/MosaMbele/portfolio.Responsive
   buildCommand: yarn install
   staticPublishPath: ./
 version: "1"
