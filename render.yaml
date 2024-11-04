@@ -5,5 +5,5 @@ services:
   repo: https://github.com/MosaMbele/porfolio.Responsive
   buildCommand: yarn install
   staticPublishPath: build
-  pullRequestPreviewsEnabled: 
-version: 
+  pullRequestPreviewsEnabled: "true"
+version: "1"
