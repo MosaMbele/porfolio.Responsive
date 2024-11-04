@@ -2,7 +2,7 @@ services:
 - type: web
   name: portfolio.Responsive
   runtime: static
-  repo: https://github.com/MosaMbele/portfolio.Responsive
+  repo:https://github.com/MosaMbele/porfolio.Responsive
   buildCommand: yarn install
   staticPublishPath: build
   pullRequestPreviewsEnabled: true
